@@ -6,7 +6,7 @@
 
 using namespace std;
 
-struct Course {
+struct Course { 
     string name;
     int creditHours;
     char grade;
@@ -63,3 +63,4 @@ int main() {
 
     return 0;
 }
+
